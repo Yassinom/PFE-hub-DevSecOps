@@ -97,7 +97,12 @@ We followed the **Agile methodology** throughout the project. Tasks were broken 
 ## Screenshots
 
 ### Application Interface
-![Application UI](./screenshots/application-ui.png)
+![Application UI](./screenshots/application-ui1.png)
+![Application UI](./screenshots/application-ui2.png)
+![Application UI](./screenshots/application-ui3.png)
+![Application UI](./screenshots/application-ui4.png)
+![Application UI](./screenshots/application-ui5.png)
+![Application UI](./screenshots/application-ui6.png)
 
 ### Jenkins Pipeline Stages
 ![Jenkins Pipeline](./screenshots/jenkins-pipeline.png)
