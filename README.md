@@ -105,4 +105,4 @@ We followed the **Agile methodology** throughout the project. Tasks were broken 
 ![Application UI](./screenshots/application-ui6.png)
 
 ### Jenkins Pipeline Stages
-![Jenkins Pipeline](./screenshots/jenkins-pipeline.png)
+![Jenkins Pipeline](./Jenkinsfile)
