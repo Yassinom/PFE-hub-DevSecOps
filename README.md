@@ -66,7 +66,7 @@ Our **Jenkins CI/CD pipeline** automates the entire build, test, and deployment 
 7. **Artifacts Storage** with **Sonatype Nexus Repository**.
 8. **Deployment** to a **Kubernetes** cluster.
 
-![Jenkins Pipeline](./screenshots/pipeline.png)
+**Jenkins CI/CD pipeline** : ![Jenkins Pipeline](./screenshots/pipeline.png)
 
 ---
 
@@ -104,5 +104,5 @@ We followed the **Agile methodology** throughout the project. Tasks were broken 
 ![Application UI](./screenshots/application-ui5.png)
 ![Application UI](./screenshots/application-ui6.png)
 
-### Jenkins Pipeline Stages
-![Jenkins Pipeline](./Jenkinsfile)
+
+
