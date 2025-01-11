@@ -66,7 +66,8 @@ Our **Jenkins CI/CD pipeline** automates the entire build, test, and deployment 
 7. **Artifacts Storage** with **Sonatype Nexus Repository**.
 8. **Deployment** to a **Kubernetes** cluster.
 
-**Jenkins CI/CD pipeline** : ![Jenkins Pipeline](./screenshots/pipeline.png)
+**Full Jenkins Pipeline** ![Jenkins Pipeline](./Jenkinsfile)
+**Jenkins CI/CD pipeline Preview :** : ![Jenkins Pipeline](./screenshots/pipeline.png)
 
 ---
 
