@@ -67,6 +67,7 @@ Our **Jenkins CI/CD pipeline** automates the entire build, test, and deployment 
 8. **Deployment** to a **Kubernetes** cluster.
 
 **Full Jenkins Pipeline** ![Jenkins Pipeline](./Jenkinsfile)
+
 **Jenkins CI/CD pipeline Preview :** : ![Jenkins Pipeline](./screenshots/pipeline.png)
 
 ---
